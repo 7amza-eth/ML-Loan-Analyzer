@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# ML Loan Analyzer
 
 ## Overview of the Analysis
 
